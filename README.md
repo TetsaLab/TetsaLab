@@ -10,7 +10,7 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Live Incident Response Honeypot Lab](https://github.com/TetsaLab/Live-Incident-and-Response-Honeypot-Project)**
 
 <hr/>
 
