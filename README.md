@@ -7,6 +7,8 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 
 - **[Vulnerability Management Program Implementation](https://github.com/TetsaLab/Vulnerability-Management-Program/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/TetsaLab/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-/blob/main/README.md)**
+- **[Vulnerability Management and STIG Remediation with Tenable](https://github.com/TetsaLab/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-/blob/main/README.md)**
+ 
 
 ## 🚨 Threat Hunting and Security Operations
 
