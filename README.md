@@ -13,6 +13,7 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Live Incident Response Honeypot Lab](https://github.com/TetsaLab/Live-Incident-and-Response-Honeypot-Project)**
+- **[Threat Hunting Investigation: Unauthorized Tor Browser Usage](https://github.com/TetsaLab/threat-hunting-scenario-tor/blob/main/README.md)**
 
 <hr/>
 
