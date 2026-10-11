@@ -15,6 +15,11 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 - **[Live Incident Response Honeypot Lab](https://github.com/TetsaLab/Live-Incident-and-Response-Honeypot-Project)**
 - **[Threat Hunting Investigation: Unauthorized Tor Browser Usage](https://github.com/TetsaLab/threat-hunting-scenario-tor/blob/main/README.md)**
 
+## 🎣 Phishing Simulation & Security Awareness
+
+- **[Phishing Simulation Lab: Gophish, Mailpit & Security Awareness Testing](https://github.com/TetsaLab/Phishing-Simulator)
+
+
 <hr/>
 
 ## 🤳 Connect With Me
