@@ -17,7 +17,7 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 
 ## 🎣 Phishing Simulation & Security Awareness
 
-- **[Phishing Simulation Lab: Gophish, Mailpit & Security Awareness Testing](https://github.com/TetsaLab/Phishing-Simulator)
+- **[Phishing Simulation Lab: Gophish, Mailpit & Security Awareness Testing](https://github.com/TetsaLab/Phishing-Simulator)**
 
 
 <hr/>
