@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/">Sammy Tetzba</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Sammy Tetzba</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I’m passionate about cybersecurity and focused on building practical, hands-on experience through projects that reflect real-world security challenges. My work explores areas such as threat detection, incident response, security monitoring, phishing awareness, and cloud security. Through these projects, I continue to strengthen my technical skills, sharpen my investigative mindset, and develop a deeper understanding of how security teams identify, analyze, and respond to threats. Feel free to explore my projects and see how I’m applying what I’ve learned to practical cybersecurity scenarios.
 
