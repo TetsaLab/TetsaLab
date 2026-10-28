@@ -32,6 +32,10 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 
 - [**Phishing Simulation Lab: Gophish, Mailpit & Security Awareness Testing**](https://github.com/TetsaLab/Phishing-Simulator)
 
+## 🖥️ IT Infrastructure & Identity and Access Management (IAM)
+
+- [**Enterprise Windows Domain & IAM Lifecycle Automation Lab**](https://github.com/TetsaLab/Enterprise-Windows-Domain-IAM-Lifecycle-Automation/blob/main/README.md)
+
 ---
 
 *All projects are conducted in controlled lab environments for educational purposes, technical skill development, and cybersecurity portfolio demonstration.*
