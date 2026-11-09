@@ -35,6 +35,7 @@ I’m passionate about cybersecurity and focused on building practical, hands-on
 ## 🖥️ IT Infrastructure & Identity and Access Management (IAM)
 
 - [**Enterprise Windows Domain & IAM Lifecycle Automation Lab**](https://github.com/TetsaLab/Enterprise-Windows-Domain-IAM-Lifecycle-Automation/blob/main/README.md)
+- [**Enterprise IAM Access Governance & Role-Based Access Reviews Lab**](https://github.com/TetsaLab/Enterprise-IAM-Access-Governance-and-Access-Reviews/blob/main/README.md)
 
 ---
 
